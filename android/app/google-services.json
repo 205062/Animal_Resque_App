@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845126716905",
+    "project_id": "resq-e6ed3",
+    "storage_bucket": "resq-e6ed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845126716905:android:c76248f25e9f3c9f188f78",
+        "android_client_info": {
+          "package_name": "com.example.petzz_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845126716905-or5o32u09pl5r86kkmtql0549v3lq9nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvhVuL2_i7UJcipKgNm-9AzS6llAuOivc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845126716905-or5o32u09pl5r86kkmtql0549v3lq9nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
